@@ -680,6 +680,7 @@ dependencies:
           - api-platform
           - wso2cloud
           - thunderid
+          - agent-manager
 
   - module: k8s.io/cli-runtime
     versions:
